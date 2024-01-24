@@ -5,7 +5,7 @@ News Update Using Text Summarization is a Python-based project designed to provi
 
 # Features:
 Article Information Retrieval:
-Fetches essential details such as article title, published date, and context from a provided article link.
+Fetches essential details such as article title, published date, and content from a provided article link.
 
 # Text Summarization:
 Utilizes the nltk library to summarize the context of the article, providing users with concise and digestible information.
