@@ -1,7 +1,7 @@
 # News-Update-Using-Text-Summarization
 
 # Overview:
-News Update Using Text Summarization is a Python-based project designed to provide a comprehensive solution for extracting, summarizing, and translating information from news articles. The project utilizes various libraries to enhance functionality, including TextBlob for translation, gTTs for text-to-speech conversion, Article for fetching article details, nltk for text summarization, and Tkinter for a user-friendly graphical interface.
+News Update Using Text Summarization is a Python-based project designed to provide a comprehensive solution for extracting, summarizing, and translating information from news articles to user required language. The project utilizes various libraries to enhance functionality, including TextBlob for translation, gTTs for text-to-speech conversion, Article for fetching article details, nltk for text summarization, and Tkinter for a user-friendly graphical interface.
 
 # Features:
 Article Information Retrieval:
